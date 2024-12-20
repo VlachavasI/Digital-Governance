@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "question": "When are children considered dependents?",
+        "answer": "Dependent children must be: (a) unmarried children who come from a marriage, whether natural, adopted, or recognised, not exceeding the age of 18 or 19, provided that they are in secondary education. 31 December of the year of the children’s birth shall be considered their date of birth; (b) in the case of dependent children for whom the conditions for attending compulsory education are met, the benefit shall be granted on the condition that, on the one hand, they are enrolled in a school for the current school year and, on the other hand, that they have sufficiently attended school in the immediately preceding school year. The latter is considered to be the case where the dependent child is not obligated to repeat the same year due to their number of unjustified absences. In the event of failure to comply with the obligation for adequate attendance due to unjustified absences of the dependent child, the benefit application may be resubmitted six (6) months after it has been established, subject to enrolment in the new school year; (c) children who have reached the age of 18, if they are attending university or a technological educational institute or a recognised college or a public or private vocational training institute or are in their Post-Secondary Education Year – Apprenticeship Class. Tertiary or Higher Education includes State Tertiary or Higher Education schools (Military, Police, Navy, Merchant Marine, etc.), as well as recognised institutions Abroad. Benefits shall be paid only during their studies and in no case after the end of the year in which they turn 24; (d) children with a disability rate of 67% or more, until the end of the year in which they turn 24."
+    },
+    {
+        "id": 1,
+        "question": "What is the ‘equivalent family income’?",
+        "answer": "Equivalent family income is defined as the total actual or imputed income from all sources of domestic and foreign origin, before tax, after social security contribution deductions, excluding benefits not counted towards taxable income, of all family members, divided by the equivalence scale."
+    },
+    {
+        "id": 2,
+        "question": "Which recognized refugees are eligible for the benefit?",
+        "answer": "Recognised refugees residing permanently in Greece, whose residence status is governed by the provisions of the 1951 Convention Relating to the Status of Refugees, as amended by the 1967 New York Protocol Relating to the Status of Refugees"
+    },
+    {
+        "id": 4,
+        "question": "Are there remote service points available?",
+        "answer": "Yes, there are. You can visit https://www.gov.gr/ipiresies/polites-kai-kathemerinoteta/ex-apostaseos-exuperetese-politon/exuperetese-me-telediaskepse-apo-kentro-exupereteses-politon-kep."
+    }
+]

@@ -1,0 +1,140 @@
+{
+    "PublicService": {
+        "name": "Child Benefit",
+        "evidence": [
+            {
+                "id": 0,
+                "evs": [
+                    {
+                        "id": "ev0000",
+                        "type": "Evidence",
+                        "name": "Identity Card",
+                        "description": "Identity Card"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "Family status certificate",
+                        "description": "This procedure concerns the issuance of a family status certificate from the Civil Register where citizens’ family records are kept. For the purpose of issuing the certificate, persons concerned may: (a) contact the Municipality in which they are registered; (b) contact the Citizens’ Service Centres (KEP); (c) go to www.gov.gr and use their TaxisNet codes to issue it digitally."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "Certificate of study",
+                        "description": "A certificate of study for children, who, after turning 18, are studying in Secondary Education, are attending tertiary or higher education institutions in Greece or recognised institutions abroad, as well as Vocational Training Institutes (IEK) or Colleges, or are in their Post-Secondary School Year – Vocational School (EPA.L.) Apprenticeship Class."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "evs": [
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "Medical Opinion",
+                        "description": "A medical opinion from a Disability Certification Centre (KEPA) or a decision from an IKA Health Committee or the Supreme Health Committees of the Army (ASYE), the Navy (ANYE), the Air Force (AAYE) and the Hellenic Police, as well as from the Medical Welfare Committee."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "evs": [
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "Copy of the beneficiary’s death certificate",
+                        "description": "This procedure concerns the issuance of an extract from the Death Certificate issued to the closest relatives of the deceased, provided that it has been prepared in accordance with Law 344/1976, as in force."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "evs": [
+                    {
+                        "id": "ev0005",
+                        "type": "Evidence",
+                        "name": "Court Judgement",
+                        "description": "A court judgment declaring the beneficiary missing or under legal guardianship, or an irrevocable court judgment convicting the beneficiary, or a court judgment assigning guardianship to a natural person, or any information indicating that the person has undertaken custody over the children."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "evs": [
+                    {
+                        "id": "ev0006",
+                        "type": "Evidence",
+                        "name": "Certificate of registration of a citizen",
+                        "description": "A certificate of registration of a citizen of the European Union or a document certifying permanent residence for a citizen of a member -state of the European Union."
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "evs": [
+                    {
+                        "id": "ev0007",
+                        "type": "Evidence",
+                        "name": "Special Expatriate Identity Card for foreign nationals",
+                        "description": "A Special Expatriate Identity Card for foreign nationals who are members of the Greek diaspora."
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "evs": [
+                    {
+                        "id": "ev0008",
+                        "type": "Evidence",
+                        "name": "Residence permits for foreign nationals",
+                        "description": "Residence permits for foreign nationals."
+                    }
+                ]
+            }
+        ],
+        "criterion_requirements": [
+            {
+                "id": "cr0001",
+                "name": "Greek Citizens"
+            },
+            {
+                "id": "cr0002",
+                "name": "Foreign nationals who hold an expatriate card"
+            },
+            {
+                "id": "cr0003",
+                "name": "Citizens of EU Member States"
+            },
+            {
+                "id": "cr0004",
+                "name": "Citizens of countries belonging to the European Economic Area (Norway, Iceland, and Liechtenstein), and Swiss citizens"
+            },
+            {
+                "id": "cr0005",
+                "name": "Recognised refugees residing permanently in Greece, whose residence status is governed by the provisions of the 1951 Convention Relating to the Status of Refugees, as amended by the 1967 New York Protocol Relating to the Status of Refugees"
+            },
+            {
+                "id": "cr0006",
+                "name": "Stateless persons whose residence status in Greece is governed by the provisions of the 1954 Convention Relating to the Status of Stateless Persons"
+            },
+            {
+                "id": "cr0007",
+                "name": "Beneficiaries granted humanitarian status"
+            },
+            {
+                "id": "cr0008",
+                "name": "Citizens of other states"
+            }
+        ]
+    }
+}
